@@ -6,13 +6,15 @@
 - B.S., Electronics and Communication Engineering | Jawaharlal Nehru TechnologicaL University, Hyderabads (_Aug 2016_-_May 2020_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**University of Houston @ Graduate Assistantship (_Oct 2022- Dec 2023_) **
+- Proposed recommendations to Senior executive team to develop and implement a new curriculum structure integrating Agile methodologies, resulting in a 20% increase in understanding and implementation of Agile principles.
+- Partnering with Executive Service Corps of Houston (ESCH) to complete 6 projects for non-profit organizations and startups to identify the most engaging marketing campaign, resulted in a $50K increase of yearly revenue.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+** JNTUH College of Engineering @ Research Intern (_Mar 2020 – Oct 2020_)**
+- Led a 5-member cross-functional team in end-to-end development of the machine learning solution using 3+ AWS Data Pipelines (ETL service), Python scripts, SQL, and Tableau in an agile framework.
+- Developed and automated ETL processes using SQL, Python, PySpark, and Hive to handle millions of rows of data, reducing manual workload by 20% while maintaining accuracy.
+- Led intricate data analysis for the project encompassing millions of records in Oracle SQL Developer, showcasing a remarkable 95% accuracy rate in anomaly identification.
+- Utilized advanced techniques including state-of-the-art Mel spectrograms and data augmentation methods to conduct an extensive study on SER achieving an accuracy rate of 85% in emotion classification.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
