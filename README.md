@@ -52,7 +52,8 @@ The Football Data Analytics project is a comprehensive endeavor involving the ex
 [Google Colab](https://colab.research.google.com/drive/1RZye2ILbGf_qJSCvUKZgTmPeEPDw6Sd_)
 
 Code-switching, the amalgamation of multiple languages within a sentence or conversation, is increasingly prevalent. However, limited code-mixed data poses challenges for effective pre-training of large language models, especially in low-resource languages like Marathi. This project addresses sentiment analysis in code-mixed data, a multi-class classification task predicting sentiments (positive, negative, or neutral). Utilizing word-level language classifiers to detect language, we tested various models on new datasets. Evaluating on downstream NLP tasks, our architecture incorporates diverse BERT model variations trained on unsupervised learning tasks. Focusing on Hindi-English and Marathi-English mixed data, the project compares mahaNLP and l3cube-pune/Marathi-sentiment-md models for efficiency across diverse datasets, offering a comprehensive analysis.
-
+![sa](/assets/img/sa.png)
+![sa2](/assets/img/sa2.png)
 ### COVID-19 Statistics Across States
 #### Tableau, Tableau Prep Builder, Microsoft Excel
 
