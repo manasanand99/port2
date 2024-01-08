@@ -1,6 +1,8 @@
 
-#### Tools - R, Python, SQL, Redshift, Tableau, Keras, Scala, Hive, Linux Shell, Excel, QGIS, GIT, Excel, Jupyter, Java, C
-#### Technologies: PyTorch, TensorFlow, OpenCV, NumPy, SciPy, Pandas, Scikit-learn, PySpark, AWS Lambda, Apache Hadoop, Kafka, Docker, spark, MongoDB, Django, Flask, Snowflake, Machine Learning, Azure Data Factory, Azure Data Lake Storage, Azure SQL, Azure Data Synapse and Databrick, Oracle SQL Developer.
+#### Tools: 
+R, Python, SQL, Redshift, Tableau, Keras, Scala, Hive, Linux Shell, Excel, QGIS, GIT, Excel, Jupyter, Java, C
+#### Technologies: 
+PyTorch, TensorFlow, OpenCV, NumPy, SciPy, Pandas, Scikit-learn, PySpark, AWS Lambda, Apache Hadoop, Kafka, Docker, spark, MongoDB, Django, Flask, Snowflake, Machine Learning, Azure Data Factory, Azure Data Lake Storage, Azure SQL, Azure Data Synapse and Databrick, Oracle SQL Developer.
 
 
 ## Education								       		
@@ -23,7 +25,7 @@ The **Chatbot OpenAI Project** is deployment of an advanced chatbot system. The 
 #### TensorFlow, Python, Matplotlib, NLTK, Sklearn, Jupyter, Inception V3, Pytorch
 Automatically describing the content of an image is a fundamental problem in artificial intelligence that connects **computer vision** and **natural language processing**. In this report, we present a generative model based on a deep recurrent architecture that combines recent advances in computer vision and machine translation and that can be used to generate natural sentences describing an image. We used a pretrained model and applied it to the dataset. Experiments on several datasets show how the accuracy of the model is changing. Also, by changing the number of epochs we observed change in BLEU score. For instance, we have achieved BLEU-1 score of 0.32 for 5 epochs whereas obtained BLEU-1 score of 0.43 for 30 epochs.
 
-![Example](/assets/img/eeg_band_discovery.jpeg)
+![output](/assets/img/image_propmt.png)
 
 ### ESTIMATING TRAFFIC THROUGH SATELLITE IMAGE
 #### Detectron2, torch, pyyaml, pandas, QGIS, google collab, Deep Learning
@@ -31,15 +33,17 @@ Automatically describing the content of an image is a fundamental problem in art
 
 High-resolution satellite imagery has lately become available to the general public, and it can be used to locate vehicles. The vehicle information contained in the image can be used to estimate traffic and the aim of this project is to develop a model to estimate traffic on road by analyzing the satellite images. Also, to utilize the existing VMT (Vehicle Miles Travelled) data for a region and correlate it with the results of satellite image. We have collected VMT summary statistics data from local government agencies Department of Transportation and high-resolution satellite images from Hurricane Harvey Imagery website. We have used a Detectron 2 and faster R-CNN model to count the number of cars in a satellite image. We have used this model to detect the count of vehicles specific to zip code.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![detection](/assets/img/car_count.png)
 
 ### Prediction of Bubble Point Pressure and Oil Formation Volume Factor Using Machine Learning Techniques
 [Github](https://github.com/manasanand99/bpp_and_oil)
 In reservoir management, comprehending reservoir fluid properties and phase behaviors is vital. Traditional laboratory PVT tests for this can be costly and time-intensive. When direct data is lacking, predicting Bubble Point Pressure (BPP) and Oil Formation Volume Factor (OFVF) using field-measurable variables through machine learning is advantageous. This study assessed 567 filtered crude oil fluid samples worldwide, employing diverse machine learning algorithms. Models, including Linear Regression and Support Vector Machine, were explored, with Artificial Neural Network (ANN) models demonstrating superior accuracy (R2=0.98 and 0.92 for BPP and OFVF). These ANN models outperformed empirical correlations, and a novel multilinear regression equation achieved high predictive accuracy (R2=0.92) for Bubble Point Pressure.
+![bpp](/assets/img/bpp.png)
 
 ### Football Data Analytics: From Wikipedia Through Azure and Apache Airflow to Tableau
 #### Apache Airflow + Postgres, Docker, Azure Data Lake, Azure DataFactory, Azure Synapse, Tableau
 The Football Data Analytics project is a comprehensive endeavor involving the extraction, processing, and analysis of football-related data. Utilizing Wikipedia as a prime data source, the project employs Azure for efficient data storage and processing, establishing a robust foundation. Task scheduling and workflow automation are streamlined through Apache Airflow, ensuring a seamless and orchestrated data flow. The ultimate goal is to derive valuable insights from football data, facilitating strategic decision-making. The project culminates in the visualization of these insights using Tableau, providing a user-friendly interface for enthusiasts and analysts to explore and understand various dimensions of the game.
+![flow](/assets/img/football.png)
 
 ### Sentiment Analysis in the Era of Large Language Models
 ####  Large Language Model, Natural Language Processing, Sentiment Analysis
