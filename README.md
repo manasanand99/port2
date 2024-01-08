@@ -20,12 +20,13 @@ PyTorch, TensorFlow, OpenCV, NumPy, SciPy, Pandas, Scikit-learn, PySpark, AWS La
 [Github](https://github.com/manasanand99/Football_Data_Analytics)
 
 The **Chatbot OpenAI Project** is deployment of an advanced chatbot system. The project employs OpenAI to generate human-like responses to text input, ensuring a natural and dynamic conversational experience. **AWS Lambda** serves as the deployment platform, offering scalability and efficiency. **FastAPI**, a modern web framework for Python, facilitates the development of a robust backend, while **Jinja2** is employed for crafting an interactive and responsive front-end template. This integration of AI-driven responses, serverless deployment, and user-friendly web interfaces positions the project at the forefront of conversational AI, offering a seamless and engaging interaction for users.
+![o](/assets/img/chatbot.png)
 
 ### IMAGE TO PROMPTS: Computer Vision using Python
 #### TensorFlow, Python, Matplotlib, NLTK, Sklearn, Jupyter, Inception V3, Pytorch
 Automatically describing the content of an image is a fundamental problem in artificial intelligence that connects **computer vision** and **natural language processing**. In this report, we present a generative model based on a deep recurrent architecture that combines recent advances in computer vision and machine translation and that can be used to generate natural sentences describing an image. We used a pretrained model and applied it to the dataset. Experiments on several datasets show how the accuracy of the model is changing. Also, by changing the number of epochs we observed change in BLEU score. For instance, we have achieved BLEU-1 score of 0.32 for 5 epochs whereas obtained BLEU-1 score of 0.43 for 30 epochs.
 
-![output](/assets/img/image_propmt.png)
+![output](/assets/img/image_to_propmt.png)
 
 ### ESTIMATING TRAFFIC THROUGH SATELLITE IMAGE
 #### Detectron2, torch, pyyaml, pandas, QGIS, google collab, Deep Learning
@@ -42,6 +43,7 @@ In reservoir management, comprehending reservoir fluid properties and phase beha
 
 ### Football Data Analytics: From Wikipedia Through Azure and Apache Airflow to Tableau
 #### Apache Airflow + Postgres, Docker, Azure Data Lake, Azure DataFactory, Azure Synapse, Tableau
+[Github](https://github.com/manasanand99/Football_Data_Analytics)
 The Football Data Analytics project is a comprehensive endeavor involving the extraction, processing, and analysis of football-related data. Utilizing Wikipedia as a prime data source, the project employs Azure for efficient data storage and processing, establishing a robust foundation. Task scheduling and workflow automation are streamlined through Apache Airflow, ensuring a seamless and orchestrated data flow. The ultimate goal is to derive valuable insights from football data, facilitating strategic decision-making. The project culminates in the visualization of these insights using Tableau, providing a user-friendly interface for enthusiasts and analysts to explore and understand various dimensions of the game.
 ![flow](/assets/img/football.png)
 
