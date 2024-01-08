@@ -1,5 +1,7 @@
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Tools - R, Python, SQL, Redshift, Tableau, Keras, Scala, Hive, Linux Shell, Excel, QGIS, GIT, Excel, Jupyter, Java, C
+#### Technologies: PyTorch, TensorFlow, OpenCV, NumPy, SciPy, Pandas, Scikit-learn, PySpark, AWS Lambda, Apache Hadoop, Kafka, Docker, spark, MongoDB, Django, Flask, Snowflake, Machine Learning, Azure Data Factory, Azure Data Lake Storage, Azure SQL, Azure Data Synapse and Databrick, Oracle SQL Developer.
+
 
 ## Education								       		
 - M.S., Engineering Data Science | University of Houston (_Aug 2022_-_Dec 2023_)	 			        		
@@ -7,14 +9,8 @@
 
 ## Work Experience
 **University of Houston @ Graduate Assistantship (_Oct 2022- Dec 2023_)**
-- Proposed recommendations to Senior executive team to develop and implement a new curriculum structure integrating Agile methodologies, resulting in a 20% increase in understanding and implementation of Agile principles.
-- Partnering with Executive Service Corps of Houston (ESCH) to complete 6 projects for non-profit organizations and startups to identify the most engaging marketing campaign, resulted in a $50K increase of yearly revenue.
-
+**Larsen & Toubro Limited @ Senior Analyst (Oct 2020 - Aug 2022)**
 **JNTUH College of Engineering @ Research Intern (_Mar 2020 – Oct 2020_)**
-- Led a 5-member cross-functional team in end-to-end development of the machine learning solution using 3+ AWS Data Pipelines (ETL service), Python scripts, SQL, and Tableau in an agile framework.
-- Developed and automated ETL processes using SQL, Python, PySpark, and Hive to handle millions of rows of data, reducing manual workload by 20% while maintaining accuracy.
-- Led intricate data analysis for the project encompassing millions of records in Oracle SQL Developer, showcasing a remarkable 95% accuracy rate in anomaly identification.
-- Utilized advanced techniques including state-of-the-art Mel spectrograms and data augmentation methods to conduct an extensive study on SER achieving an accuracy rate of 85% in emotion classification.
 
 ## Projects
 ### CHATBOT OPEN AI
@@ -33,7 +29,7 @@ Automatically describing the content of an image is a fundamental problem in art
 #### Detectron2, torch, pyyaml, pandas, QGIS, google collab, Deep Learning
 [Google Colab](https://colab.research.google.com/drive/16BlptDYoOFvC0RROaHPiIaVD_rcyCZ3W)
 
-High-resolution satellite imagery has lately become available to the general public, and it can be used to locate vehicles. The vehicle information contained in the image can be used to estimate traffic and the aim of this project is to develop a model to estimate traffic on road by analyzing the satellite images. Also, to utilize the existing VMT (Vehicle Miles Travelled) data for a region and correlate it with the results of satellite image. We have collected VMT summary statistics data from local government agencies **Department of Transportation** and high-resolution satellite images from Hurricane Harvey Imagery website. We have used a Detectron 2 and faster R-CNN model to count the number of cars in a satellite image. We have used this model to detect the count of vehicles specific to zip code.
+High-resolution satellite imagery has lately become available to the general public, and it can be used to locate vehicles. The vehicle information contained in the image can be used to estimate traffic and the aim of this project is to develop a model to estimate traffic on road by analyzing the satellite images. Also, to utilize the existing VMT (Vehicle Miles Travelled) data for a region and correlate it with the results of satellite image. We have collected VMT summary statistics data from local government agencies Department of Transportation and high-resolution satellite images from Hurricane Harvey Imagery website. We have used a Detectron 2 and faster R-CNN model to count the number of cars in a satellite image. We have used this model to detect the count of vehicles specific to zip code.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
@@ -43,7 +39,7 @@ In reservoir management, comprehending reservoir fluid properties and phase beha
 
 ### Football Data Analytics: From Wikipedia Through Azure and Apache Airflow to Tableau
 #### Apache Airflow + Postgres, Docker, Azure Data Lake, Azure DataFactory, Azure Synapse, Tableau
-The "Football Data Analytics" project is a comprehensive endeavor involving the extraction, processing, and analysis of football-related data. Utilizing Wikipedia as a prime data source, the project employs Azure for efficient data storage and processing, establishing a robust foundation. Task scheduling and workflow automation are streamlined through Apache Airflow, ensuring a seamless and orchestrated data flow. The ultimate goal is to derive valuable insights from football data, facilitating strategic decision-making. The project culminates in the visualization of these insights using Tableau, providing a user-friendly interface for enthusiasts and analysts to explore and understand various dimensions of the game.
+The Football Data Analytics project is a comprehensive endeavor involving the extraction, processing, and analysis of football-related data. Utilizing Wikipedia as a prime data source, the project employs Azure for efficient data storage and processing, establishing a robust foundation. Task scheduling and workflow automation are streamlined through Apache Airflow, ensuring a seamless and orchestrated data flow. The ultimate goal is to derive valuable insights from football data, facilitating strategic decision-making. The project culminates in the visualization of these insights using Tableau, providing a user-friendly interface for enthusiasts and analysts to explore and understand various dimensions of the game.
 
 ### Sentiment Analysis in the Era of Large Language Models
 ####  Large Language Model, Natural Language Processing, Sentiment Analysis
@@ -59,4 +55,4 @@ Conducted comprehensive data cleaning tasks encompassing removal of duplicates, 
 
 ## Publications
 1. Shiva Kalyan Sunder Diwakaruni, Mohammed Abrar Pasha, Nissankara Manas Anand, Dr. Supreethi K.P. – Jawaharlal Nehru TechnologicaL
-University, Hyderabad, India. Page No: 300-313 [DOI: 10.26717/BJSTR.2019.20.003446](https://doi.org/10.37896/JXAT13.10/313930)https://doi.org/10.37896/JXAT13.10/313930
+University, Hyderabad, India. Page No: 300-313 [DOI](https://doi.org/10.37896/JXAT13.10/313930)
