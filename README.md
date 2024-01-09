@@ -17,7 +17,7 @@ PyTorch, TensorFlow, OpenCV, NumPy, SciPy, Pandas, Scikit-learn, PySpark, AWS La
 ## Projects
 ### CHATBOT OPEN AI
 #### AWS Lambda, OpenAI, FastAPI, Python, Jinja2
-[Github](https://github.com/manasanand99/Football_Data_Analytics)
+[Github](https://github.com/manasanand99/chatbot_project)
 
 The **Chatbot OpenAI Project** is deployment of an advanced chatbot system. The project employs OpenAI to generate human-like responses to text input, ensuring a natural and dynamic conversational experience. **AWS Lambda** serves as the deployment platform, offering scalability and efficiency. **FastAPI**, a modern web framework for Python, facilitates the development of a robust backend, while **Jinja2** is employed for crafting an interactive and responsive front-end template. This integration of AI-driven responses, serverless deployment, and user-friendly web interfaces positions the project at the forefront of conversational AI, offering a seamless and engaging interaction for users.
 ![o](/assets/img/chatbot.png)
