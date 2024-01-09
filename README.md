@@ -64,4 +64,4 @@ Conducted comprehensive data cleaning tasks encompassing removal of duplicates, 
 
 ## Publications
 1. Shiva Kalyan Sunder Diwakaruni, Mohammed Abrar Pasha, Nissankara Manas Anand, Dr. Supreethi K.P. – Jawaharlal Nehru TechnologicaL
-University, Hyderabad, India. Page No: 300-313 [DOI](https://doi.org/10.37896/JXAT13.10/313930)
+University, Hyderabad, India. Page No: 300-313 (https://doi.org/10.37896/JXAT13.10/313930) [paper](https://app.box.com/s/8600smczowa0f71fauroe6r4sztpel8r)
