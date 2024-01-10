@@ -28,6 +28,12 @@ Automatically describing the content of an image is a fundamental problem in art
 
 ![output](/assets/img/image_to_propmt.png)
 
+### Vehicle Insurance Web Application
+#### JavaScript, Nodejs, Java, HTML5, CSS, SpringBoot, Angular, JDBC, MySQL
+[github](https://github.com/manasanand99/project)
+The project encompasses a dynamic blend of technologies to create a robust and user-friendly platform. Developed using JavaScript, Node.js, Java, HTML5, and CSS, the backend is powered by the SpringBoot framework with JDBC for seamless database connectivity to MySQL. The frontend is crafted with Angular, ensuring an intuitive and responsive user interface. This web application is designed to facilitate diverse functionalities related to vehicle insurance, offering a seamless and secure experience for users. The integration of these technologies creates a versatile and efficient system for managing and processing vehicle insurance information.
+![img](/assets/img/insurance.png)
+
 ### ESTIMATING TRAFFIC THROUGH SATELLITE IMAGE
 #### Detectron2, torch, pyyaml, pandas, QGIS, google collab, Deep Learning
 [Google Colab](https://colab.research.google.com/drive/16BlptDYoOFvC0RROaHPiIaVD_rcyCZ3W)
