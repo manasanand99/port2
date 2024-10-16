@@ -10,10 +10,10 @@ PyTorch, TensorFlow, OpenCV, NumPy, SciPy, Pandas, Scikit-learn, PySpark, AWS La
 - B.S., Electronics and Communication Engineering | Jawaharlal Nehru TechnologicaL University, Hyderabad (_Aug 2016_-_May 2020_)
 
 ## Work Experience
-**MTX Group Inc @ Data Consultant (_May 2024- Oct 2024_)**
-**University of Houston @ Data Analyst/Graduate Assistantship (_Oct 2022- Jan 2024_)**
-**Larsen & Toubro Limited @ Consultant (Oct 2020 - Aug 2022)**
-**JNTUH College of Engineering @ Research Intern (_Mar 2020 – Oct 2020_)**
+- **MTX Group Inc @ Data Consultant (_May 2024- Oct 2024_)**
+- **University of Houston @ Data Analyst/Graduate Assistantship (_Oct 2022- Jan 2024_)**
+- **Larsen & Toubro Limited @ Consultant (Oct 2020 - Aug 2022)**
+- **JNTUH College of Engineering @ Research Intern (_Mar 2020 – Oct 2020_)**
 
 ## Projects
 ### CHATBOT OPEN AI
